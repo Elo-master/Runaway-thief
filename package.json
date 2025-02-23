@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Elo-master/Runaway-thief"
+        "url": "git+https://github.com/Elo-master/Runaway-thief"
     },
     "keywords": [],
     "author": "Eloy Velasco <eloyvela@ucm.es>",
