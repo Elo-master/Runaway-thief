@@ -52,6 +52,7 @@
  "tileheight":16,
  "tilesets":[
         {
+<<<<<<< HEAD
          "columns":58,
          "firstgid":1,
          "image":"cave_assets.png",
@@ -89,6 +90,18 @@
          "tilecount":10,
          "tileheight":16,
          "tilewidth":16
+=======
+         "firstgid":1,
+         "source":"..\/..\/..\/cueva.tsx"
+        }, 
+        {
+         "firstgid":2669,
+         "source":"pinchos arriba.tsx"
+        }, 
+        {
+         "firstgid":2670,
+         "source":"pinchbanderas.tsx"
+>>>>>>> b44325cdd98ca1540e804994669038ff92d4e825
         }],
  "tilewidth":16,
  "type":"map",
